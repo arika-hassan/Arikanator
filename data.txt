@@ -1,0 +1,5 @@
+4
+Brooklyn_Nine_Nine Yes No
+Friends Yes Yes
+Full_House  No Yes
+New_Girl No  No
